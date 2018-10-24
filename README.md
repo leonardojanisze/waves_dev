@@ -1,3 +1,3 @@
-# waves_dev
+# WAVES
 
 For Waves platform developments 
